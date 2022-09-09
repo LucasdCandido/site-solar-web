@@ -13,6 +13,8 @@
 
     <head>
         <?php include($raiz."includes/head.php") ?>
+        //[index2]
+        <?php include($raiz."includes/head_2.php") ?>
     </head>
 
     <body>
@@ -52,6 +54,16 @@
                 <?php include($raiz."includes/footer.php") ?>
                 <?php include($raiz."includes/copy.php") ?>
 
+                    //[index2]
+                <?php include($raiz."includes/slider_2.php") ?>
+                <?php include($raiz."includes/menu_super_2.php") ?>
+                <?php include($raiz."includes/quadros_2.php") ?>
+                <?php include($raiz."includes/tabela_precos_2.php") ?>
+                <?php include($raiz."includes/depoimentos.php") ?>
+                <?php include($raiz."includes/quem_somos.php") ?>
+                <?php include($raiz."includes/galeria.php") ?>
+                <?php include($raiz."includes/footer.php") ?>
+                <?php include($raiz."includes/copy.php") ?>
 
 
 
