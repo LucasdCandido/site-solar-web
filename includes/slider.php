@@ -43,7 +43,7 @@
                 <!-- eof .container -->
             </li>
             <li>
-                <img src="images/slide02.jpg" alt="">
+                <img src="<?=$raiz?>images/slide02.jpg" alt="">
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-12">

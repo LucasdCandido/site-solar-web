@@ -1,4 +1,4 @@
-<section class="ls ms section_padding_100 ">
+<section id="gallery" class="ls ms section_padding_100 ">
 	<div class="container-fluid">
 		<div class="row">
 			<div class="col-sm-12 text-center">
@@ -9,13 +9,13 @@
 		<div class="row">
 			<div class="col-sm-12">
 
-				<div class="owl-carousel" data-margin="20" data-nav="true" data-items="6" data-themeclass="owl-theme hover-scale">
+				<div class="owl-carousel" data-center="true" data-loop="true" data-margin="0" data-nav="true" data-items="6" data-themeclass="owl-theme">
 
 					<div class="vertical-item content-absolute">
 						<div class="item-media">
 							<img src="<?=$raiz?>images/events/01.jpg" alt="">
 							<div class="media-links">
-								<a class="abs-link" title="" href="gallery-single.html"></a>
+								<a class="abs-link" title="" href="<?=$raiz?>gallery-single.html"></a>
 							</div>
 						</div>
 						<div class="item-content darken_gradient"></div>
@@ -25,7 +25,7 @@
 						<div class="item-media">
 							<img src="<?=$raiz?>images/events/02.jpg" alt="">
 							<div class="media-links">
-								<a class="abs-link" title="" href="gallery-single.html"></a>
+								<a class="abs-link" title="" href="<?=$raiz?>gallery-single.html"></a>
 							</div>
 						</div>
 						<div class="item-content darken_gradient"></div>
@@ -35,7 +35,7 @@
 						<div class="item-media">
 							<img src="<?=$raiz?>images/events/03.jpg" alt="">
 							<div class="media-links">
-								<a class="abs-link" title="" href="gallery-single.html"></a>
+								<a class="abs-link" title="" href="<?=$raiz?>gallery-single.html"></a>
 							</div>
 						</div>
 						<div class="item-content darken_gradient"></div>
@@ -45,7 +45,7 @@
 						<div class="item-media">
 							<img src="<?=$raiz?>images/events/04.jpg" alt="">
 							<div class="media-links">
-								<a class="abs-link" title="" href="gallery-single.html"></a>
+								<a class="abs-link" title="" href="<?=$raiz?>gallery-single.html"></a>
 							</div>
 						</div>
 						<div class="item-content darken_gradient"></div>
@@ -55,7 +55,7 @@
 						<div class="item-media">
 							<img src="<?=$raiz?>images/events/05.jpg" alt="">
 							<div class="media-links">
-								<a class="abs-link" title="" href="gallery-single.html"></a>
+								<a class="abs-link" title="" href="<?=$raiz?>gallery-single.html"></a>
 							</div>
 						</div>
 						<div class="item-content darken_gradient"></div>
@@ -65,7 +65,7 @@
 						<div class="item-media">
 							<img src="<?=$raiz?>images/events/06.jpg" alt="">
 							<div class="media-links">
-								<a class="abs-link" title="" href="gallery-single.html"></a>
+								<a class="abs-link" title="" href="<?=$raiz?>gallery-single.html"></a>
 							</div>
 						</div>
 						<div class="item-content darken_gradient"></div>
@@ -73,9 +73,9 @@
 
 					<div class="vertical-item content-absolute">
 						<div class="item-media">
-							<img src="<=$raiz?>images/events/07.jpg" alt="">
+							<img src="<?=$raiz?>images/events/07.jpg" alt="">
 							<div class="media-links">
-								<a class="abs-link" title="" href="gallery-single.html"></a>
+								<a class="abs-link" title="" href="<?=$raiz?>gallery-single.html"></a>
 							</div>
 						</div>
 						<div class="item-content darken_gradient"></div>
@@ -85,7 +85,7 @@
 						<div class="item-media">
 							<img src="<?=$raiz?>images/events/08.jpg" alt="">
 							<div class="media-links">
-								<a class="abs-link" title="" href="gallery-single.html"></a>
+								<a class="abs-link" title="" href="<?=$raiz?>gallery-single.html"></a>
 							</div>
 						</div>
 						<div class="item-content darken_gradient"></div>
@@ -100,10 +100,9 @@
 		<!-- .row -->
 		<div class="row">
 			<div class="col-sm-12 text-center">
-				<a href="gallery-regular.html" class="theme_button inverse wide_button">Gallery Page</a>
+				<a href="<?=$raiz?>gallery-regular.html" class="theme_button inverse wide_button">Gallery Page</a>
 			</div>
 
 		</div>
 	</div>
-
 </section>

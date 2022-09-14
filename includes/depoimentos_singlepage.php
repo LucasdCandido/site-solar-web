@@ -1,5 +1,12 @@
-<section class="ls ms page_testimonials section_padding_top_50 section_padding_bottom_15">
+<section id="table" class="ds parallax page_testimonials section_padding_top_75 section_padding_bottom_15">
 	<div class="container">
+		<div class="row">
+			<div class="col-sm-12 text-center">
+				<h2 class="highlight big text-uppercase">
+					What our customers say:
+				</h2>
+			</div>
+		</div>
 		<div class="row">
 			<div class="col-sm-12">
 

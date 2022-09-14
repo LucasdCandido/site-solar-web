@@ -1,4 +1,4 @@
-<section class="ds ms section_padding_top_75 section_padding_bottom_75">
+<section class="ls ms section_padding_top_75 section_padding_bottom_75">
 	<div class="container">
 		<div class="row">
 

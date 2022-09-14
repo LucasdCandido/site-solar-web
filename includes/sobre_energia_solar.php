@@ -1,4 +1,4 @@
-<section class="ls section_padding_0 columns_padding_0 table_section table_section_md">
+<section id="about" class="ls ms section_padding_0 columns_padding_0 table_section table_section_md">
 	<div class="container-fluid">
 		<div class="row">
 			<div class="col-md-6">
